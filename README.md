@@ -19,4 +19,4 @@ Currently focused on expanding my knowledge in Backend Architectures 🏗.
 
 Feel free to reach out! I'm always open to discussing new projects, collaborations, and interesting tech topics.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeswanthKilari&show_icons=true&locale=en" alt="Yeswanthkilari" /></p>
+
